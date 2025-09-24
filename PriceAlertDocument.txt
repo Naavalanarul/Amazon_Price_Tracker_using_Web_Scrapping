@@ -1,0 +1,18 @@
+📩 Price Drop Alert Email Draft
+
+Subject: 🎉 Price Drop Alert: Your watched item is now cheaper!
+
+Body:
+
+Hello [User],
+
+Good news! The price of the product you were tracking has just dropped.
+
+📌 Product: [Product Name]
+💰 Old Price: ₹[Old Price]
+🔥 New Price: ₹[New Price]
+
+👉 Grab it now before the offer ends: [Product Link]
+
+Happy Shopping!
+— Your Price Alert Bot 🚀
